@@ -16,3 +16,4 @@ nnUNet_results/
 __pycache__/
 *.pyc
 .venv/
+ms60_venv/
