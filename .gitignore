@@ -1,0 +1,18 @@
+# Data (не коммитим тяжёлые файлы)
+*.nii
+*.nii.gz
+*.npy
+*.npz
+
+# Directories with data
+data/
+test_MS60/
+output/
+nnUNet_raw/
+nnUNet_preprocessed/
+nnUNet_results/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
